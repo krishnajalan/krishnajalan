@@ -1,9 +1,11 @@
 ### Hi there 👋
-just a curious Homo Sapian
+Just a curious Homo Sapian
+
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
+- 😄 Like problem solving and competetive coding.
 - 👯 I’m looking to collaborate on open source based on python, C++
-- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/krishna-jalan-804108170/), [Instagram](https://www.instagram.com/krishna_jalan_/), [email](mailto:krishnajalan2001@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/krishna-jalan-804108170/), [Instagram](https://www.instagram.com/krishna_jalan_/), [email](mailto:krishnajalan2001@gmail.com)
 
 
 <!--
