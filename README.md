@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Algorithm to flowchart converter
+- 🌱 I’m currently learning flutter
+- 👯 I’m looking to collaborate on open source based on python, C++
+- 📫 How to reach me: [Linkedln](https://www.linkedin.com/in/krishna-jalan-804108170/), [Instagram](https://www.instagram.com/krishna_jalan_/), [Email](krishnajalan2001@gmail.com)
+
+
 <!--
 **krishnajalan/krishnajalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
