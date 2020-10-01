@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+just a curious Homo Sapian
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
 - 👯 I’m looking to collaborate on open source based on python, C++
