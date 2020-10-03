@@ -14,7 +14,7 @@ Just a curious Homo Sapian
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact" alt="krishnajalan" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnajalan&show_icons=true" alt="krishnajalan" /></p>
 
 
