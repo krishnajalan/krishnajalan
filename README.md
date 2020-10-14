@@ -1,6 +1,6 @@
 # Hi there 👋
 ## About me: Just a curious Homo Sapiant
-<img src="https://static1.squarespace.com/static/551d4b4fe4b088e1f808d234/t/5a686e2c4192026e50ae7cc3/1516793388597/home_anim.gif">
+<img src="https://static1.squarespace.com/static/551d4b4fe4b088e1f808d234/t/5a686e2c4192026e50ae7cc3/1516793388597/home_anim.gif"><br>
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
 - 😄 Like problem solving and competetive coding.
