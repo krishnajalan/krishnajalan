@@ -1,5 +1,6 @@
-### Hi there 👋
-Just a curious Homo Sapian
+# Hi there 👋
+## About me: Just a curious Homo Sapiant
+<img src="https://user-images.githubusercontent.com/57000001/91126107-db905500-e6c0-11ea-918c-cabfe4e05136.gif">
 
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
