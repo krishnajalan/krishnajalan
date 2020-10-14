@@ -1,7 +1,6 @@
 # Hi there 👋
 ## About me: Just a curious Homo Sapiant
-<img src="https://user-images.githubusercontent.com/57000001/91126107-db905500-e6c0-11ea-918c-cabfe4e05136.gif">
-
+<img src="https://static1.squarespace.com/static/551d4b4fe4b088e1f808d234/t/5a686e2c4192026e50ae7cc3/1516793388597/home_anim.gif">
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
 - 😄 Like problem solving and competetive coding.
@@ -14,9 +13,9 @@
 - <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width="20" height="20"> [CodeChef Profile](https://www.codechef.com/users/krishna112001)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact" alt="krishnajalan" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact" alt="krishnajalan" />
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnajalan&show_icons=true" alt="krishnajalan" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=krishnajalan&show_icons=true" alt="krishnajalan" />
 
 
 
