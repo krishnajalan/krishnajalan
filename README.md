@@ -11,7 +11,8 @@
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="24" height="24"> [hackerrank Profile](https://www.hackerrank.com/krishnajalan) 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" width="20" height="20"> [hackerearth Profile](https://www.hackerearth.com/@krishna112001)
 - <img src="https://avatars1.githubusercontent.com/u/11960354?s=460&v=4" width="20" height="20"> [CodeChef Profile](https://www.codechef.com/users/krishna112001)
-
+- <img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1410916443/e1aka8oyy6vnsbrt8ogw.png" width="20" height="20"> [Codingames Profile](https://www.codingame.com/profile/de5b95eeac5b03dbcfc1dc304e2ea0c42037233
+)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact" alt="krishnajalan" />
 <br><br>
