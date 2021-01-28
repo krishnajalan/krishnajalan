@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Algorithm to flowchart converter
 - 🌱 I’m currently learning flutter
 - 😄 Like problem solving and competetive coding.
-- 👯 I’m looking to collaborate on open source based on python, C++
+- 👯 I’m looking to collaborate on open source based on python, C++, javascript, dart, java.
 - 📫 How to reach me:     <img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" width="20" height="20"> [Linkedin](https://www.linkedin.com/in/krishna-jalan-804108170/), <img src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-instagram-icon-png-image_3584852.jpg" width="20" height="20"> [Instagram](https://www.instagram.com/krishna_jalan_/), <img src="https://purepng.com/public/uploads/medium/purepng.com-mail-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596075c48i3.png" width="20" height="20"> [Email](mailto:krishnajalan2001@gmail.com)
 - 🎮 Like to play (CSGO, Valorant, RocketLeague, GTA V, Amoung us)
 - <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/24/Steam-icon.png" width="20" height="20" > Feel free to add me on [Steam](https://steamcommunity.com/profiles/76561198376048763/) 
