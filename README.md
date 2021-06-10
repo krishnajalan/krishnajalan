@@ -13,7 +13,7 @@
 - <img src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1410916443/e1aka8oyy6vnsbrt8ogw.png" width="20" height="20"> [Codingames Profile](https://www.codingame.com/profile/de5b95eeac5b03dbcfc1dc304e2ea0c42037233
 )
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="krishnajalan" /> &nbsp; &nbsp; &nbsp; <img src="https://github-readme-stats-mzx3hn64n.vercel.app/api?username=krishnajalan&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnajalan&layout=compact&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="krishnajalan" /> &nbsp; &nbsp; &nbsp; 
 
 
 
